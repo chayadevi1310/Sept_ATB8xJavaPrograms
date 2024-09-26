@@ -1,6 +1,6 @@
 package Sept.ex_25092024;
 
-public class LAb113 {
+public class Lab113 {
     public static void main(String[] args){
         int i1 = 10;
         while(i1>=1){
